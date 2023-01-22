@@ -1,6 +1,7 @@
 # Email Task by R Pretorius
 
 Dear Joe,
+
 I hope you are having a productive week. From our side, we are extremely excited to integrate with your fin-tech solution and hope to enable you guys to achieve success beyond your most umimaginable goals. I just want to use this email to sync up with you around the information we require from you, which will help us get a better picture of the type of integration which will be best suited for you current, as well as future needs.
 
 The info which will have the biggest influence on how we integrate with your product will be around your transactional flows. More precisely:
@@ -18,4 +19,5 @@ Keeping all of that in mind we can determine the following:
 Please don’t hesitate to contact us if you require any more information or need clarifying of something. We look forward to hearing from you about your transaction flows and the route you decide to take. If needed, we will be more than happy to assist you in your journey to integration.
 
 Kind regards,
+
 Reghard Pretorius
